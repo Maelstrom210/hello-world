@@ -1,2 +1,2 @@
 # hello-world
-Startinh as a beginner 
+Starting as a beginner 
